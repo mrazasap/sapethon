@@ -1,0 +1,8 @@
+users 
+id int 100 auto_increment
+name varchar 100
+last_visited datetime
+face_api_id : 
+face_api_json:  
+
+{name: "Monis Raza", email: "mraza@sapient.com", phone: "07466666666", last_visited: "03102015:1714", face_api_id: "2323WEE267", face_api_json: ""}
